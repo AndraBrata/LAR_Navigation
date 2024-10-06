@@ -1,8 +1,8 @@
-# LAR_Navigation
+# LAR_Authoring_Tool_Navigation
 
 
 
-### LAR User Interface
+### LAR Authoring Tool User Interface
 1. 📜 [About](#1-page-1) 
 2. 📑 [Page 2](#2-page-2) 
 3. 🔖 [Page 3](#3-page-3) 
@@ -18,9 +18,12 @@
 <hr style="border-top: 2px solid #333;">
 
 ## 1. About
-
 <p align="justify"> 
-  <img src="https://github.com/andrabrata/" alt="flutter" width="900" />
+For your reference, here the videos which show the differentiation between existing authoring tools and our proposed.
+Desktop-based : <iframe width="560" height="315" src="https://www.youtube.com/embed/wVeHnhTGHug?si=eDRnp8dWIr4VlOXT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Our Proposed  : <iframe width="560" height="315" src="https://www.youtube.com/embed/yvxzu1YUFFE?si=rvryuazAR_rbOwzF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 </p>
 
 <a href="#flutter-development-environment-in-docker-container" style="font-size: 0.1px; color: #FF0000;">if back to top ↑ </a>
