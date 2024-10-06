@@ -1,8 +1,8 @@
 # LAR_Navigation
 
-### FPLAS Interface
 
 
+### LAR User Interface
 1. 📜 [About](#1-page-1) 
 2. 📑 [Page 2](#2-page-2) 
 3. 🔖 [Page 3](#3-page-3) 
@@ -19,9 +19,8 @@
 
 ## 1. About
 
-
 <p align="justify"> 
-  <img src="https://github.com/lynnhtetaung/fplas-2024/blob/blog/assets/page1.png" alt="flutter" width="900" />
+  <img src="https://github.com/andrabrata/" alt="flutter" width="900" />
 </p>
 
 <a href="#flutter-development-environment-in-docker-container" style="font-size: 0.1px; color: #FF0000;">if back to top ↑ </a>
